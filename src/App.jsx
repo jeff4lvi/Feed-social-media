@@ -24,13 +24,13 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl:'https://github.com/maykbrito.png',
-      name: 'Mayk Brito',
-      role: 'Educator @rocketseat'
+      avatarUrl:'https://github.com/jeff4lvi.png',
+      name: 'Jeff Django',
+      role: 'Developer'
     },
     content:[
       {type: 'paragraph', content: 'Fala galera',},
-      {type:'paragraph',content:'test tests esxxxxx kaçls~dk asdçaskd asda skdja sdas'},
+      {type:'paragraph',content:'test tests working in progress'},
       {type: 'link' ,content:'link.dlink/likxs'},
     ],
     publishedAt: new Date('2022-07-10 08:13:30'),
